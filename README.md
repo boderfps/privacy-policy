@@ -1,5 +1,4 @@
 
-Creating a privacy policy for your Discord bot, Hexify, is crucial to ensure transparency and compliance with privacy laws and Discord's guidelines. Below is a comprehensive privacy policy tailored for Hexify, a music bot.
 
 Privacy Policy for Hexify
 Effective Date: June 26, 2024
